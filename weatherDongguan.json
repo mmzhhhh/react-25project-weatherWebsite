@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 113.7447,
+        "lat": 23.0489
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "多云",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 31.95,
+        "feels_like": 33.81,
+        "temp_min": 31.95,
+        "temp_max": 31.95,
+        "pressure": 1007,
+        "humidity": 48,
+        "sea_level": 1007,
+        "grnd_level": 1006
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.13,
+        "deg": 249,
+        "gust": 2.39
+    },
+    "clouds": {
+        "all": 65
+    },
+    "dt": 1724482509,
+    "sys": {
+        "type": 1,
+        "id": 9630,
+        "country": "CN",
+        "sunrise": 1724450689,
+        "sunset": 1724496623
+    },
+    "timezone": 28800,
+    "id": 1812545,
+    "name": "Dongguan",
+    "cod": 200
+}
